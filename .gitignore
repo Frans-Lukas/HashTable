@@ -1,0 +1,6 @@
+# ignore all
+*
+# unignore .h and .cpp files
+!*.cpp
+!*.h
+!*.md
